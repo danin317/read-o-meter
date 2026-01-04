@@ -1,0 +1,1 @@
+Estimated reading time: **23** seconds

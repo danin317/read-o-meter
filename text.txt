@@ -1,0 +1,8 @@
+Since I have severely procrastinated today (when it comes to personal projects, that is), to not feel bad I decided to create a 
+little script that calculates the estimated reading time of a text. (and of course, outputs it to Markdown because I want to feel 
+fancy)
+
+If you're interested, the source code can be found here, but the code is not even 20 lines in 
+length, it really is that simple. 
+
+So yeah, from now on you can see how long the blog post will be before reading it. 
